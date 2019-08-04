@@ -1,6 +1,7 @@
 branches: master
 jobs-selection: any
 head-hackage: >=8.8
+ghcjs-tests: True
 
 constraint-set light
   constraints: these -semigroupoids
